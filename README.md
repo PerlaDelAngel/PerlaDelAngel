@@ -19,7 +19,7 @@
 </h3><br>
     
 - 📊 Front-End Dev with background on management and business administration. 
-- 🖥️ Currently learning **React, NodeJs, Firebase**.
+- 🖥️ Currently learning **React, NodeJs**.
 - 🤝🏼 Looking to collaborate on projects with a significant social impact.
 - 😄 Pronouns: She/her
 - 🎮 Fun fact: I love videogames, D&D, and anything sci-fi! 
