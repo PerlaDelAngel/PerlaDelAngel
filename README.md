@@ -14,17 +14,15 @@
     Hi, I'm Perla ✨
 </h2>
 
-<br><h3 align="center" >
+<h3 align="center" >
     < Front-End Developer />
-</h3>
-    
+</h3><br>
     
 - 📊 Front-End Dev with background on management and business administration. 
 - 🖥️ Currently learning **React, NodeJs, Firebase**.
 - 🤝🏼 Looking to collaborate on projects with a significant social impact.
 - 😄 Pronouns: She/her
 - 🎮 Fun fact: I love videogames, D&D, and anything sci-fi! 
-  
   
 ------
 
