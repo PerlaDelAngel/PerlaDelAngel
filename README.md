@@ -9,15 +9,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-About me,
-Connect/Reach me: gmail and linkedin
-Language and tools
 -->
 <h2 align="center" >
-    < Front-End Developer >
+    Hi, I'm Perla ✨
 </h2>
-    
 
+<h3 align="center" >
+    < Front-End Developer />
+</h3>
+    
+- 📊 Front-End Dev with background on management and business administration. 
+- 🖥️ Currently learning **React, NodeJs, Firebase**.
+- 🤝🏼 Looking to collaborate on projects with a significant social impact.
+- 😄 Pronouns: She/her
+- 🎮 Fun fact: I love videogames, D&D, and anything sci-fi! 
   
 ------
 
