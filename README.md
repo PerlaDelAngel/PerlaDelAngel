@@ -32,13 +32,24 @@
   
 ------
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/perla-gda/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/PerDelAngel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit" alt="Twitter"/></a>
 </p>
   
 ------
+
+<h3 align="left">Deployed projects</h3>
+<p align="left">
+<a href="https://www.npmjs.com/package/md-links-pda" target="blank"><img src="https://img.shields.io/badge/Node.js-mdLinks-green?style=for-the-badge&logo=nodedotjs" alt="mdLinks project"/></a>
+<a href="https://bookreads-9192a.web.app/" target="blank"><img src="https://img.shields.io/badge/Vanilla-Social%20Network-red?style=for-the-badge&logo=javascript" alt="social network project"/></a>
+<a href="https://perladelangel.github.io/CDMX012-data-lovers/src/" target="blank"><img src="https://img.shields.io/badge/Vanilla-Data%20Lovers-blue?style=for-the-badge&logo=javascript" alt="data lovers project"/></a>
+<a href="https://perladelangel.github.io/CDMX012-cipher/src/" target="blank"><img src="https://img.shields.io/badge/Vanilla-Cipher-lightgray?style=for-the-badge&logo=javascript" alt="cipher project"/></a>
+</p>
+
+------
+
 ### Stats
   
 ![PerlaDelAngel's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerlaDelAngel&show_icons=true&theme=material-palenight)
