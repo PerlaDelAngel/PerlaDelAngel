@@ -45,7 +45,7 @@
 <a href="https://rocket-lab-pda.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/React-Rocket_Lab-7367F0?style=for-the-badge&logo=react" alt="rocket lab project"/></a>
 <a href="https://tourmaline-chebakia-a174b7.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/React-Burger_Queen-F44341?style=for-the-badge&logo=react" alt="burger queen project"/></a>
 <a href="https://www.npmjs.com/package/md-links-pda" target="_blank"><img src="https://img.shields.io/badge/Node.js-mdLinks-green?style=for-the-badge&logo=nodedotjs" alt="mdLinks project"/></a>
-<a href="https://bookreads-9192a.web.app/" target="_blank"><img src="https://img.shields.io/badge/Vanilla-Social%20Network-red?style=for-the-badge&logo=javascript" alt="social network project"/></a>
+<a href="https://bookreads-9192a.web.app/" target="_blank"><img src="https://img.shields.io/badge/Vanilla-Social%20Network-951C45?style=for-the-badge&logo=javascript" alt="social network project"/></a>
 <a href="https://perladelangel.github.io/CDMX012-data-lovers/src/" target="_blank"><img src="https://img.shields.io/badge/Vanilla-Data%20Lovers-blue?style=for-the-badge&logo=javascript" alt="data lovers project"/></a>
 <a href="https://perladelangel.github.io/CDMX012-cipher/src/" target="_blank"><img src="https://img.shields.io/badge/Vanilla-Cipher-lightgray?style=for-the-badge&logo=javascript" alt="cipher project"/></a>
 </p>
