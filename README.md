@@ -7,7 +7,7 @@
 </h3><br>
     
 - 📊 Front-End Dev with background on management and business administration. 
-- 🤝🏼 Technology has allowed me to interact with people from all backgrounds, spread knowledge and weave collaboration networks. For this reason, I'm looking to collaborate on projects with a significant social impact.
+- 🤝🏼 Technology has allowed me to interact with people from all backgrounds, spread knowledge and weave collaboration networks. For this reason, I'm looking to collaborate on projects that value diversity and have a significant social impact.
 - ⚛️ Currently developing projects with **React**.
 - 😄 **Pronouns:** She/her
 - 🎮 **Fun fact:** I love videogames, Dungeons & Dragons, and anything sci-fi! 
